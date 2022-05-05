@@ -80,6 +80,20 @@ Você pode visualiza o layout do projeto pelo [figma](https://www.figma.com/file
 - [x] Controle de feedback
 - [x] Envio de feedback
 
+3º dia
+
+- [x] Criado o fluxo da aplicação back-end
+- [x] Setup da estrutura
+  - [x] TypeScript 
+  - [x] ts-node-dev
+- [x] Configurações do...
+  - [x] Empress 
+  - [x] Prisma
+  - [x] Jest
+- [x] Criando a rota de Feedbacks
+- [x] Envio de e-mail com nodemailer
+- [x] Princípios de SOLID
+
 ---
 
 ## 📣 O que é Next Level Week?
